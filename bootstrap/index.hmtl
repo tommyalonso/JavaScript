@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <head>
+    <title>Construcciones y Promos Toscal-Longuera</title>
+    <link href='css/bootstrap.css' rel='stylesheet'>
+    <link href='css/main.css' rel='stylesheet'>
+  </head>
+    <body>
+
+    <div class='navbar navbar-default navbar-static-top'>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-md-12'>
+          <h2>
+            Construcciones y Promos Toscal - Longuera
+          </h2>
+          <ul class='nav navbar-nav navbar-right'>
+            <li><a href='tickets.html'>Fotos</a></li>
+            <li><a href='stations.html'>Historia</a></li>
+            <li><a href='about.html'>Sobre nosotros</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class='row well well-lg text-center'>
+        <div class='col-md-6'>
+          <h2>La experiencia nuestra virtud</h2>
+          <p class='lead'>Tenemos lo que buscas</p>
+          <button type='button' class='btn btn-lg btn-default'>Contactar</button>
+          <button type='button' class='btn btn-lg btn-primary'>Enviar correo</button>
+        </div>
+
+        <div class='col-md-6'>
+          <img src='images/blast.png' alt='Blasting Off'/>
+        </div>
+      </div>
+    </div>
+
+    <div class='container-fluid'>
+        <div class='row features'>
+          <div class='row text-center'>
+            <div class='col-sm-4'>
+              <i class='glyphicon glyphicon-briefcase'></i>
+                <h3>Book Today!</h3>
+                <p>Si te vas mañana incluso hoy puedes pillar tus tickets</p>
+              </div>
+            </div>
+
+          <div class='row text-center'>
+            <div class='col-sm-4'>
+              <i class='glyphicon glyphicon-random'></i>
+                <h3>Go anywhere</h3>
+                <p>Vete a la mierda o a donde te salga del culo</p>
+              </div>
+            </div>
+
+          <div class='row text-center'>
+            <div class='col-sm-4'>
+              <i class='glyphicon glyphicon-send'></i>
+                <h3>RocketBus&reg;</h3>
+                <p>Para billetes más baratos, vete caminando xD</p>
+              </div>
+            </div>
+          </div>
+          <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+          <script src='js/bootstrap.js'></script>
+        </div>
+    </div>
+  </body>
+</html>
