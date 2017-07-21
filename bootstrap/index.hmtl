@@ -5,7 +5,7 @@
 
   <head>
     <title>Construcciones y Promos Toscal-Longuera</title>
-    <link href='css/bootstrap.css' rel='stylesheet'>
+    <link href='css/bootstrap.min.css' rel='stylesheet'>
     <link href='css/main.css' rel='stylesheet'>
   </head>
     <body>
@@ -42,15 +42,15 @@
     <div class='container-fluid'>
         <div class='row features'>
           <div class='row text-center'>
-            <div class='col-sm-4'>
+            <div class='col-sm-12'>
               <i class='glyphicon glyphicon-briefcase'></i>
                 <h3>Book Today!</h3>
-                <p>Si te vas mañana incluso hoy puedes pillar tus tickets</p>
+                <p>Si te das de alta hoy te llevas un meco</p>
               </div>
             </div>
 
           <div class='row text-center'>
-            <div class='col-sm-4'>
+            <div class='col-sm-12'>
               <i class='glyphicon glyphicon-random'></i>
                 <h3>Go anywhere</h3>
                 <p>Vete a la mierda o a donde te salga del culo</p>
@@ -58,7 +58,7 @@
             </div>
 
           <div class='row text-center'>
-            <div class='col-sm-4'>
+            <div class='col-sm-12'>
               <i class='glyphicon glyphicon-send'></i>
                 <h3>RocketBus&reg;</h3>
                 <p>Para billetes más baratos, vete caminando xD</p>
@@ -66,7 +66,7 @@
             </div>
           </div>
           <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
-          <script src='js/bootstrap.js'></script>
+          <script src='js/bootstrap.min.js'></script>
         </div>
     </div>
   </body>
